@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-07-15 10:15:50.481669 by NamurScenarioPreparer.py UNKNOWN
+  options: -a 900 -n /Users/dguastel/Desktop/WORK/ULB/TORRES/models/REPOSITORY/namur/namur.net.xml -o full_dataset/15min/namur_11_01/ -d data/namur_dataset_2023-11-01.parquet -p 100
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <inductionLoop id="D1_0" lane="D1_0" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D1_1" lane="D1_1" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D1_2" lane="D1_2" pos="0" file="detector.out.xml" freq="900.0"/>
+ 
+    <inductionLoop id="D2_0" lane="D2_0" pos="-1" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D2_1" lane="D2_1" pos="-1" file="detector.out.xml" freq="900.0"/>
+
+    <inductionLoop id="D3_0" lane="D3_0" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D3_1" lane="D3_1" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D3_2" lane="D3_2" pos="0" file="detector.out.xml" freq="900.0"/>
+
+
+    <inductionLoop id="D4_0" lane="D4_0" pos="-1" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D4_1" lane="D4_1" pos="-1" file="detector.out.xml" freq="900.0"/>
+
+    <inductionLoop id="D5_0" lane="D5_0" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D5_1" lane="D5_1" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D5_2" lane="D5_2" pos="0" file="detector.out.xml" freq="900.0"/>
+
+    <inductionLoop id="D6_0" lane="D6_0" pos="-1" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D6_1" lane="D6_1" pos="-1" file="detector.out.xml" freq="900.0"/>
+    
+    <inductionLoop id="D7_0" lane="D7_0" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D7_1" lane="D7_1" pos="0" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D7_2" lane="D7_2" pos="0" file="detector.out.xml" freq="900.0"/>
+    
+    <inductionLoop id="D8_0" lane="D8_0" pos="-1" file="detector.out.xml" freq="900.0"/>
+    <inductionLoop id="D8_1" lane="D8_1" pos="-1" file="detector.out.xml" freq="900.0"/>
+
+</additional>
