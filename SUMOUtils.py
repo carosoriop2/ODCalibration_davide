@@ -57,6 +57,7 @@ def create_od_pairs(correlated_pairs, out_fname="init_odpairs.xml", time_period_
 
 def create_trips(net_path, taz_path="taz.xml", odpairs_path="init_odpairs.xml", trips_path="trips.xml",
                  out_routes_fname="routes.xml", vtype_add_file_path="vtype.add.xml"):
+
     # OD -> Trips
     od2trips_cmd = (f"od2trips -n {taz_path} "
                     f" -z {odpairs_path} "

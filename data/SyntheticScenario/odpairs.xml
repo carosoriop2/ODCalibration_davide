@@ -6,17 +6,17 @@
 
 <data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/datamode_file.xsd">
     <interval id="0" begin="0" end="3600">
-        <tazRelation from="D2" to="D7" count="80"/>
-        <tazRelation from="D2" to="D5" count="80"/>
-        <tazRelation from="D2" to="D3" count="80"/>
-        <tazRelation from="D8" to="D1" count="80"/>
-        <tazRelation from="D8" to="D3" count="80"/>
-        <tazRelation from="D8" to="D5" count="80"/>
-        <tazRelation from="D4" to="D1" count="80"/>
-        <tazRelation from="D4" to="D7" count="80"/>
-        <tazRelation from="D4" to="D5" count="80"/>
-        <tazRelation from="D6" to="D3" count="80"/>
-        <tazRelation from="D6" to="D7" count="80"/>
+        <tazRelation from="D2" to="D7" count="100"/>
+        <tazRelation from="D2" to="D5" count="30"/>
+        <tazRelation from="D2" to="D3" count="90"/>
+        <tazRelation from="D8" to="D1" count="90"/>
+        <tazRelation from="D8" to="D3" count="200"/>
+        <tazRelation from="D8" to="D5" count="50"/>
+        <tazRelation from="D4" to="D1" count="10"/>
+        <tazRelation from="D4" to="D7" count="170"/>
+        <tazRelation from="D4" to="D5" count="90"/>
+        <tazRelation from="D6" to="D3" count="110"/>
+        <tazRelation from="D6" to="D7" count="30"/>
         <tazRelation from="D6" to="D1" count="80"/>
     </interval>
 </data>
